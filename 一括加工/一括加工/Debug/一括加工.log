@@ -1,8 +1,0 @@
-﻿  Source.cpp
-C:\Users\user\Documents\プログラミング技法Ⅰ\一括加工\一括加工\Source.cpp(57): warning C4326: 'main' の戻り値の型には、'int' を使用してください。'void' は使用できません
-C:\Users\user\Documents\プログラミング技法Ⅰ\一括加工\一括加工\Source.cpp(115): warning C4474: 'printf': 書式文字列に渡された引数の数が多すぎます
-  C:\Users\user\Documents\プログラミング技法Ⅰ\一括加工\一括加工\Source.cpp(115): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
-C:\Users\user\Documents\プログラミング技法Ⅰ\一括加工\一括加工\Source.cpp(156): warning C4101: 'c': ローカル変数は 1 度も使われていません。
-C:\Users\user\Documents\プログラミング技法Ⅰ\一括加工\一括加工\Source.cpp(219): warning C4474: 'printf': 書式文字列に渡された引数の数が多すぎます
-  C:\Users\user\Documents\プログラミング技法Ⅰ\一括加工\一括加工\Source.cpp(219): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
-  一括加工.vcxproj -> C:\Users\user\Documents\プログラミング技法Ⅰ\一括加工\Debug\一括加工.exe
